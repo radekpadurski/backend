@@ -1,3 +1,4 @@
 /node_modules
 src/config/serviceAccount.json
 src/config/emailAccount.ts
+src/config/polygonConfig.ts
